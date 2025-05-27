@@ -1,3 +1,4 @@
+![My Awesome Project Banner](https://fiverr-res.cloudinary.com/images/f_auto,q_auto,t_main1/v1/attachments/delivery/asset/41f42ffb8825a7c57ff4810593e5ba5d-1677459265/Light%20bulb/do-an-animated-pixel-art-banner-for-youtube-twitch-a-videogame-etc.gif)
 <h1 align="center">Hi 👋, I'm Prateek Narain</h1>
 <h3 align="center">Frontend Developer| AI & ML | DevOps Explorer</h3>
 
