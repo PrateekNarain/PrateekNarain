@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **React, NextJs**
 
-- 💬 Ask me about **Javascript, NodeJs**
+- 💬 Ask me about **Javascript**
 
 - 📫 How to reach me **prateeknarain751@gmail.com**
 
