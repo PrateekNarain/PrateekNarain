@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prateeknarain&label=Profile%20views&color=0e75b6&style=flat" alt="prateeknarain" /> </p>
 
-- 🔭 I’m currently working on **Sign Language Detection**
+- 🔭 I’m currently learning on **Fullstack Technologies.**
 
 - 🌱 I’m currently learning **React, NextJs**
 
